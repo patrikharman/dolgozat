@@ -1,0 +1,29 @@
+body {
+	background-image: url("game.jpg");
+	color:black;
+	font-family:Arial;
+}
+	img	{
+	width: 150px;
+	float: right;
+}	
+#tarolo {
+	border:5px ;
+	width: 90%;
+	max-width:900px;
+	margin: auto;
+	padding:10px;
+}
+.elem {
+	border:50px solid black;
+	padding:100px;
+	margin:2px;
+	background-color:white;
+}
+#menu a:visited {
+	color:white;
+}
+
+#menu a:hover {
+	color:white;
+}
